@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="31c8ab30-b85c-4d14-a6a3-20fdb671e717" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1aT89vkB2vQnv8ysZEBXkjdsADj" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="full.screen.before.presentation.mode" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Text\Teaching\CS106A\CS106A-Spr19-20\Lectures\Lecture5\Lecture5-Expressions" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.reverse_dict">
+    <configuration name="average2numbers" type="PythonConfigurationType" factoryName="Python">
+      <module name="Lecture17" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/average2numbers.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="reverse_dict" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Lecture17" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/reverse_dict.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Doctest compute_average (1)" type="tests" factoryName="Doctests" temporary="true" nameIsGenerated="true">
+      <module name="Lecture17" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/averagescores.py" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="compute_average" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_FUNCTION" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Doctest compute_average" type="tests" factoryName="Doctests" temporary="true" nameIsGenerated="true">
+      <module name="Lecture17" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/listexamples.py" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="compute_average" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_FUNCTION" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Doctest dna_to_rna" type="tests" factoryName="Doctests" temporary="true" nameIsGenerated="true">
+      <module name="Lecture17" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dna_to_rna.py" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="dna_to_rna" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_FUNCTION" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Doctest give_extra_credit_buggy" type="tests" factoryName="Doctests" temporary="true" nameIsGenerated="true">
+      <module name="Lecture17" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/listexamples.py" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="give_extra_credit_buggy" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_FUNCTION" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.average2numbers" />
+      <item itemvalue="Python.reverse_dict" />
+      <item itemvalue="Python tests.Doctest compute_average (1)" />
+      <item itemvalue="Python tests.Doctest compute_average" />
+      <item itemvalue="Python tests.Doctest dna_to_rna" />
+      <item itemvalue="Python tests.Doctest give_extra_credit_buggy" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.reverse_dict" />
+        <item itemvalue="Python tests.Doctest dna_to_rna" />
+        <item itemvalue="Python tests.Doctest compute_average (1)" />
+        <item itemvalue="Python tests.Doctest give_extra_credit_buggy" />
+        <item itemvalue="Python tests.Doctest compute_average" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="31c8ab30-b85c-4d14-a6a3-20fdb671e717" name="Default Changelist" comment="" />
+      <created>1547809090797</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1547809090797</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="127" y="244" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1651659481246">
+      <screen x="0" y="0" width="2048" height="1122" />
+    </state>
+    <state x="127" y="244" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2048.1122/2560.348.1280.689@0.0.2048.1122" timestamp="1651659481246" />
+    <state x="183" y="232" key="SettingsEditor" timestamp="1651659463169">
+      <screen x="0" y="0" width="2048" height="1122" />
+    </state>
+    <state x="183" y="232" key="SettingsEditor/0.0.2048.1122/2560.348.1280.689@0.0.2048.1122" timestamp="1651659463169" />
+    <state x="814" y="442" width="672" height="678" key="search.everywhere.popup" timestamp="1651662277039">
+      <screen x="0" y="0" width="2048" height="1122" />
+    </state>
+    <state x="814" y="442" width="672" height="678" key="search.everywhere.popup/0.0.2048.1122/2560.348.1280.689@0.0.2048.1122" timestamp="1651662277039" />
+  </component>
+</project>

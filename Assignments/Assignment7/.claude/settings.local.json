@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python -c \"from searchengine import create_index, search, textfiles_in_dir; index = {}; file_titles = {}; create_index\\(textfiles_in_dir\\('bbcnews'\\), index, file_titles\\); print\\('stanford' in index\\); print\\('stanford files:', index.get\\('stanford', 'not found'\\)\\)\")",
+      "Bash(python -c \"from searchengine import create_index, search, textfiles_in_dir; index = {}; file_titles = {}; create_index\\(textfiles_in_dir\\('bbcnews'\\), index, file_titles\\); result = search\\(index, 'stanford'\\); print\\('Search result:', result\\)\")"
+    ]
+  }
+}

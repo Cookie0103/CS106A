@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e113187b-993c-49cd-ab86-eb3c673acf81" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="29VjuaJClHyavqWQy6g2hZziAhN" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RunManager" selected="Python tests.Doctest create_index">
+    <configuration name="Doctest common" type="tests" factoryName="Doctests" temporary="true" nameIsGenerated="true">
+      <module name="Assignment7" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/common_elements.py" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="common" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_FUNCTION" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Doctest create_index" type="tests" factoryName="Doctests" temporary="true" nameIsGenerated="true">
+      <module name="Assignment7" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/searchengine.py" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="create_index" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_FUNCTION" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.Doctest common" />
+        <item itemvalue="Python tests.Doctest create_index" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e113187b-993c-49cd-ab86-eb3c673acf81" name="Default Changelist" comment="" />
+      <created>1653205369297</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1653205369297</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="621" y="207" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1653212153705">
+      <screen x="0" y="0" width="2048" height="1122" />
+    </state>
+    <state x="621" y="207" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2048.1122/2560.348.1280.689@0.0.2048.1122" timestamp="1653212153705" />
+    <state width="1348" height="271" key="GridCell.Tab.0.bottom" timestamp="1653212184445">
+      <screen x="0" y="0" width="2048" height="1122" />
+    </state>
+    <state width="1348" height="271" key="GridCell.Tab.0.bottom/0.0.2048.1122/2560.348.1280.689@0.0.2048.1122" timestamp="1653212184445" />
+    <state width="1348" height="271" key="GridCell.Tab.0.center" timestamp="1653212184445">
+      <screen x="0" y="0" width="2048" height="1122" />
+    </state>
+    <state width="1348" height="271" key="GridCell.Tab.0.center/0.0.2048.1122/2560.348.1280.689@0.0.2048.1122" timestamp="1653212184445" />
+    <state width="1348" height="271" key="GridCell.Tab.0.left" timestamp="1653212184445">
+      <screen x="0" y="0" width="2048" height="1122" />
+    </state>
+    <state width="1348" height="271" key="GridCell.Tab.0.left/0.0.2048.1122/2560.348.1280.689@0.0.2048.1122" timestamp="1653212184445" />
+    <state width="1348" height="271" key="GridCell.Tab.0.right" timestamp="1653212184445">
+      <screen x="0" y="0" width="2048" height="1122" />
+    </state>
+    <state width="1348" height="271" key="GridCell.Tab.0.right/0.0.2048.1122/2560.348.1280.689@0.0.2048.1122" timestamp="1653212184445" />
+  </component>
+</project>
